@@ -1,2 +1,4 @@
 node_modules/
 .env
+
+# env should add to gitignore before commit otherwise git will track the .env file
